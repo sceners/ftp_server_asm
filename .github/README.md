@@ -1,6 +1,6 @@
 # Simple FTP server in ASM for Windows32
 
-#### Written in November 2000.
+#### Written in 2002.
 
 [Original package](https://defacto2.net/f/a41896f)
 
